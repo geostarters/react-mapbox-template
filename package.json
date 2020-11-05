@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@geostarters/eslint-config": "^0.0.6",
-    "@geostarters/react-components": "^0.3.0",
+    "@geostarters/react-components": "^0.3.4",
     "eslint-plugin-flowtype": "^3.2.1",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
